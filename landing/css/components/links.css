@@ -1,0 +1,16 @@
+.links {
+font-size: 40px;
+color: #1EDD88;
+}
+
+.links a {
+  font-size: 40px;
+color: #1EDD88;
+
+}
+
+.links a:hover {
+font-size: 120px;
+color: #61acb0;
+transition: 0.5s;
+}
